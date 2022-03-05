@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdulr123
 - 👀 I’m interested in Web Programming.
-- 🌱 I’m currently learning CodeIgniter, Lravel nd Etc.
+- 🌱 I’m currently learning CodeIgniter, Laravel nd Etc.
 - 💞️ I am looking to collaborate on artificial intelligence based website creation.
 - 📫 How to reach me ? Please Commit to my repository.
 
